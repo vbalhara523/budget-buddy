@@ -1,0 +1,97 @@
+date,category,amount,note
+2026-08-02,shopping,450,Clothes
+2026-08-03,study,1030,Notes xerox
+2026-08-04,bills,360,Wifi
+2026-08-04,food,90,Groceries
+2026-08-04,study,560,Books
+2026-08-06,fun,480,Outing
+2026-08-07,fun,540,Outing
+2026-08-07,shopping,1340,Clothes
+2026-08-07,travel,230,Bus pass
+2026-08-08,food,400,Snacks
+2026-08-08,fun,430,Outing
+2026-08-09,food,120,Canteen
+2026-08-09,travel,740,Auto
+2026-08-10,travel,590,Metro
+2026-08-12,food,300,Canteen
+2026-08-13,food,140,Groceries
+2026-08-14,food,290,Groceries
+2026-08-14,travel,800,Metro
+2026-08-16,travel,150,Auto
+2026-08-17,travel,260,Auto
+2026-08-18,bills,380,Wifi
+2026-08-18,food,150,Cafe
+2026-08-18,food,220,Groceries
+2026-08-18,food,230,Canteen
+2026-08-18,food,240,Snacks
+2026-08-18,food,340,Canteen
+2026-08-19,food,200,Mess
+2026-08-19,fun,430,Movie
+2026-08-22,food,420,Mess
+2026-08-28,food,140,Cafe
+2026-08-28,fun,570,Outing
+2026-08-29,food,370,Canteen
+2026-09-01,food,320,Groceries
+2026-09-01,food,430,Groceries
+2026-09-02,bills,750,Wifi
+2026-09-03,food,230,Cafe
+2026-09-03,food,420,Canteen
+2026-09-06,travel,600,Metro
+2026-09-08,fun,180,Gaming
+2026-09-08,study,950,Stationery
+2026-09-10,shopping,1240,Clothes
+2026-09-11,food,230,Groceries
+2026-09-12,food,260,Canteen
+2026-09-12,fun,660,Movie
+2026-09-13,study,140,Notes xerox
+2026-09-14,bills,680,Mobile recharge
+2026-09-14,food,390,Cafe
+2026-09-14,travel,200,Train ticket
+2026-09-14,travel,390,Auto
+2026-09-15,food,280,Mess
+2026-09-15,food,430,Mess
+2026-09-17,food,410,Canteen
+2026-09-18,travel,230,Train ticket
+2026-09-19,food,420,Mess
+2026-09-19,fun,480,Gaming
+2026-09-20,food,130,Cafe
+2026-09-22,shopping,1040,Headphones
+2026-09-22,travel,850,Metro
+2026-09-26,food,430,Cafe
+2026-09-29,travel,230,Auto
+2026-09-30,study,400,Stationery
+2026-09-30,study,520,Online course
+2026-10-01,food,100,Canteen
+2026-10-01,travel,140,Bus pass
+2026-10-04,bills,570,Mobile recharge
+2026-10-05,food,170,Canteen
+2026-10-05,fun,450,Outing
+2026-10-05,travel,830,Auto
+2026-10-07,food,400,Cafe
+2026-10-09,shopping,1020,Shoes
+2026-10-09,study,1160,Books
+2026-10-10,food,210,Cafe
+2026-10-11,study,370,Online course
+2026-10-12,study,380,Books
+2026-10-14,food,340,Groceries
+2026-10-14,food,430,Cafe
+2026-10-15,food,110,Snacks
+2026-10-16,travel,70,Train ticket
+2026-10-17,bills,710,Electricity
+2026-10-18,fun,690,Movie
+2026-10-19,food,200,Cafe
+2026-10-19,fun,180,Outing
+2026-10-19,fun,460,Outing
+2026-10-19,shopping,1170,Shoes
+2026-10-21,food,290,Mess
+2026-10-22,food,320,Canteen
+2026-10-22,food,410,Snacks
+2026-10-23,food,80,Mess
+2026-10-23,food,260,Canteen
+2026-10-23,fun,470,Movie
+2026-10-25,travel,530,Bus pass
+2026-10-25,travel,780,Metro
+2026-10-27,food,250,Snacks
+2026-10-12,food,-50,refund typo
+2026-13-01,fun,200,bad date
+2026-10-15,,120,no category
